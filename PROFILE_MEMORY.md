@@ -10,5 +10,7 @@ Updated 2026-11-07 (Asia/Dhaka).
 - Tool names are supported by the public project documentation. The profile does not claim proficiency levels, measured performance or authorship of every linked codebase.
 - assets/header.svg and header-mobile.svg are original static vector artwork with no external images, downloaded fonts, scripts or analytics. A native picture element selects the more readable mobile banner. Keep README text accessible without these images.
 - Profile README requirements were checked against GitHub's official documentation: public repository named exactly RakibulIslam1, nonempty README.md at the repository root. Changes should be verified on the actual public GitHub profile.
+- Published the initial profile in commit 31aac3f to the public RakibulIslam1/RakibulIslam1 repository. GitHub displays it on the actual account profile.
+- Verification passed through GitHub's Markdown API and on the public profile in Chrome at 390px and 1280px: selected work and team credits visible, banner assets loaded, no horizontal overflow. The portfolio checkout remained clean and was not edited or redeployed. Local preview/QA files stay ignored under .preview/.
 
 Sources: https://github.com/RakibulIslam1, the linked public repositories, and the owner's confirmed CV information. Portfolio reference is read-only; profile work must not edit or redeploy the website.
