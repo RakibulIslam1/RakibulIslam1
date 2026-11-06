@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="230" viewBox="0 0 640 230" fill="none">
+  <rect x=".5" y=".5" width="639" height="229" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <path d="M24 58v115" stroke="#f05263" stroke-width="3" stroke-linecap="round"/>
+  <text x="44" y="112" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="650" letter-spacing="-2">Rakibul Islam</text>
+  <text x="46" y="151" fill="#afb8c1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Hardware · Firmware · Robotics</text>
+  <g transform="translate(-90 30) scale(.7)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m788 144 102-59 104 60v15l-104 60-102-60Z" fill="#161b22" stroke="#53606e" stroke-width="1.5"/>
+    <path d="m788 144 102 60 104-59-104-60Z" fill="#202833" stroke="#83909e" stroke-width="1.5"/>
+    <path d="m800 144 90-52 92 53-92 53Z" stroke="#3b4653"/>
+    <path d="m844 139 47-27 47 27v13l-47 27-47-27Z" fill="#0d1117" stroke="#b25260"/>
+    <path d="m844 139 47 27 47-27-47-27Z" fill="#303b48" stroke="#c09aa2" stroke-width="1.5"/>
+    <path d="m859 139 32-18 31 18-31 18Z" fill="#202833"/>
+    <path d="m881 136 10-6 11 6-11 7Z" fill="#f05263"/>
+    <g stroke="#e77887" stroke-width="1.5">
+      <path d="m840 121-16-9 20-12m-15 38-24-14-28 16h-39m161-30 22-13V67m22 71 25 14 23-13h39m-127 43 20 12v26"/>
+      <path d="m863 175-23 13-35-20h-57m207-62 16-10h39"/>
+    </g>
+    <g fill="#0d1117" stroke="#b8c3ce" stroke-width="1.5">
+      <circle cx="738" cy="140" r="4"/><circle cx="921" cy="67" r="4"/><circle cx="1028" cy="139" r="4"/>
+      <circle cx="911" cy="220" r="4"/><circle cx="748" cy="168" r="4"/><circle cx="1010" cy="96" r="4"/>
+    </g>
+    <g stroke="#8996a4" stroke-width="2">
+      <path d="m826 161 13-7m2 16 13-7m2 16 13-7m2 16 13-7"/>
+      <path d="m927 170 13 7m-28 2 13 7m-28 2 13 7"/>
+    </g>
+    <path d="m814 142 8-5 9 5-9 5Zm145 1 8-5 9 5-9 5Zm-77-42 8-5 9 5-9 5Z" fill="#10151b" stroke="#586574"/>
+  </g>
+</svg>
